@@ -10,8 +10,8 @@ const mPlus1 = M_PLUS_1({
 
 export const metadata: Metadata = {
   title: {
-    template: "ブログシステム",
-    default: "ブログシステム",
+    template: "Lang Camp",
+    default: "ラングキャンプ",
   },
 }
 
